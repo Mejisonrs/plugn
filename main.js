@@ -15,7 +15,7 @@ function toggleMenu() {
   menu.classList.toggle("active");
 }
 
-function closeMenu(event) {
+function closeMenu() {
   overlay.classList.remove("active");
   menu.classList.remove("active");
 }
