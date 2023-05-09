@@ -1,3 +1,4 @@
+// Hola slider
 const intro = document.querySelectorAll('.headline-slider');
 const prev = document.querySelector('.headline-prev');
 const next = document.querySelector('.headline-next');
